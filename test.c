@@ -4,7 +4,10 @@ using namespace std;
 int main(){
 	
 	int a = 100;
-	retrun a;
+	
+
+	printf("a的值为："，a);
+	
 
 
 
